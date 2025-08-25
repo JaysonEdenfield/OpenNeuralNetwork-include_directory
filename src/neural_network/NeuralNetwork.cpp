@@ -1,4 +1,4 @@
-#include "../../include/NeuralNetwork.hpp"
+#include "NeuralNetwork.hpp"
 
 NeuralNetwork::NeuralNetwork(
     vector<int> topology,

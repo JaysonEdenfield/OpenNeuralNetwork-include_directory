@@ -1,5 +1,5 @@
-#include "../../include/NeuralNetwork.hpp"
-#include "../../include/utils/Math.hpp"
+#include "NeuralNetwork.hpp"
+#include "utils/Math.hpp"
 
 void NeuralNetwork::feedForward() {
     Matrix *a; // Matrix of neurons to the left

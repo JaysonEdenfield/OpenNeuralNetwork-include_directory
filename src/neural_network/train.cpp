@@ -1,4 +1,4 @@
-#include "../../include/NeuralNetwork.hpp"
+#include "NeuralNetwork.hpp"
 
 void NeuralNetwork::train(
     vector<double> input,

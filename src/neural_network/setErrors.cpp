@@ -1,5 +1,5 @@
 #include <cassert>
-#include "../../include/NeuralNetwork.hpp"
+#include "NeuralNetwork.hpp"
 
 void NeuralNetwork::setErrors() {
     switch(costFunctionType) {

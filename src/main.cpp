@@ -6,9 +6,9 @@
 #include <streambuf>
 #include <ctime> 
 
-#include "../include/Matrix.hpp"
-#include "../include/utils/Math.hpp"
-#include "../include/NeuralNetwork.hpp"
+#include "Matrix.hpp"
+#include "utils/Math.hpp"
+#include "NeuralNetwork.hpp"
 
 using namespace std;
 

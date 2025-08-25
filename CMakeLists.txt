@@ -17,4 +17,4 @@ add_executable(
     src/neural_network/backPropagation.cpp
     src/neural_network/train.cpp
 )
-target_include_directories(openANN PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_include_directories(openANN PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
